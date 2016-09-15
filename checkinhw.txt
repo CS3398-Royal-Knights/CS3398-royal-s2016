@@ -1,3 +1,2 @@
 first line of text
 hello world!
-hi!
