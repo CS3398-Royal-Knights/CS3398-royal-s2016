@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 first line of text
 hello world!
+=======
+<<<<<<< HEAD
+"first line of text" 
+" + more" 
+=======
+first line of text
+Look there are cool things in here
+>>>>>>> 9c3df32e98136f2828e8c26102c5c818f245dbb6
+
+
+A04673456
+>>>>>>> 68716f411bd63137fbaea78d7c43549971002826
+A00654335

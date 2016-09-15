@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 more content
+=======
+<<<<<<< HEAD
+"more content" 
+=======
+more content
+>>>>>>> 9c3df32e98136f2828e8c26102c5c818f245dbb6
+>>>>>>> 68716f411bd63137fbaea78d7c43549971002826
